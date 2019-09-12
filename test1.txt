@@ -1,1 +1,13 @@
-jahk
+
+git config --global user.email "..."
+git config --global user.name "..."
+
+
+git init
+git status
+touch
+git add
+git commit -m "file"
+git remote add origin "location of remote"
+git push -u origin master
+
